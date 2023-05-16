@@ -1,0 +1,2 @@
+# netflix-tela-de-login
+ Este é um projeto de tela de login da Netflix, criado com HTML e CSS. A tela apresenta uma interface limpa e minimalista, com formulário de login que solicita o endereço de e-mail/número de telefone e senha do usuário. Além disso, a tela possui opções de lembrar-me, suporte, login via Facebook, inscrição e informações de segurança do Google reCAPTCHA. Este projeto é ideal para estudantes que desejam aprimorar suas habilidades em desenvolvimento web e criar uma interface de usuário atraente e funcional.
