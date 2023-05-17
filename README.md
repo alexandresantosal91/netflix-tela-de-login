@@ -9,6 +9,6 @@
 
 ![](./assets/img/Captura%20de%20Tela%202023-05-16%20%C3%A0s%2016.59.00.png)
 
-<p align="center"><a href="https://alexandresantosal91.github.io/netflix-tela-de-login/">Clique Aqui para acessar o projeto</a></p>
+<p align="center"><a href="https://netflix-tela-de-login.vercel.app">Clique Aqui para acessar o projeto</a></p>
 
  <p align="justify">Se gostou, deixe uma avaliação de estrela!</p>
