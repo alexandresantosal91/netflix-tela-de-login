@@ -3,6 +3,7 @@
 [![Status do Repositório](https://img.shields.io/badge/Repositório%20Status-Mantido-dark%20green.svg)](https://github.com/alexandresantosal91/netflix-tela-de-login)
 [![Status do Site](https://img.shields.io/badge/Website%20Status-Online-green)](https://alexandresantosal91.github.io/netflix-tela-de-login/)
 [![Autor](https://img.shields.io/badge/Autor-Alexandre%20Santos-blue.svg)](https://www.linkedin.com/in/alexandresantosal/)
+[![macbook-m1](https://img.shields.io/badge/MacBook_Air_M1_2021-999999)](https://www.apple.com/br/macbook-air-m1/)
 [![Lançamento Mais Recente](https://img.shields.io/badge/Latest%20Release-16%20maio%202023-yellow.svg)](https://github.com/alexandresantosal91/netflix-tela-de-login/commits/main)
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/alexandresantosal91/netflix-tela-de-login/blob/main/LICENSE)
 
