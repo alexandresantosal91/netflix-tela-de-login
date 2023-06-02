@@ -13,4 +13,4 @@
 
 <p align="center"><a href="https://netflix-tela-de-login.vercel.app">Clique Aqui para acessar o projeto</a></p>
 
- <p align="justify">Se gostou, deixe uma avaliação de estrela!</p>
+<p align="justify">Entre em contato comigo pelo e-mail: alexandresantos_al@hotmail.com se tiver algum comentário ou ideia para o site. Se gostou, deixe uma avaliação de estrelas!</p>
